@@ -1,5 +1,10 @@
 # Nossa missão_
 
+#Alterado 
+fsafkj 
+asdfkalsdfjklsadjf fksadfklsdjfksdjfklasdfkjsdkf 
+fkasdkfljsfjsdkfjldsakjf sdkjfklsdafj
+
 ## Conectar pessoas e devices em tempo real
 
 Desde o início, nosso objetivo tem sido criar tecnologias para permitir a era de todas as coisas smart - Edge Computing!
