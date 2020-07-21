@@ -1,5 +1,9 @@
 # Nossa missão_
 
+1. Adicionando alteracoes
+2. lkasdfkajfka
+3. dfjklsadjfasdkfj sdaklfjskda
+
 ## Conectar pessoas e devices em tempo real
 
 Desde o início, nosso objetivo tem sido criar tecnologias para permitir a era de todas as coisas smart - Edge Computing!
