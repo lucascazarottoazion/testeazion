@@ -1,10 +1,12 @@
 #Nossa missão_
+
 ##Conectar pessoas e devices em tempo real
 
 Desde o início, nosso objetivo tem sido criar tecnologias para permitir a era de todas as coisas smart - Edge Computing!
 
 
 #O que fazemos_
+
 ##Fundada em 2011, a Azion permite a você construir e executar aplicações serverless na edge da rede ou suas próprias instalações, próximo a usuários e dispositivos.
 
 A plataforma de edge computing da Azion é ideal para aplicações que requerem baixo tempo de resposta, baixa latência ou processamento de dados em tempo real e endereça alguns dos mais complexos desafios de redes e computação, incluindo disponibilidade, performance, escalabilidade e segurança de serviços de missão crítica. Considerada por institutos como Forrester, Gartner e IDC como uma das 10 maiores tendências tecnológicas que impactarão infraestruturas e operações de TI, a edge computing entrega serviços de missão crítica inovadores, necessários para construir o futuro dos segmentos de e-commerce, games, finanças, mídia e aplicações, tais como Internet das Coisas, Inteligência Artificial, 5G, Realidade Aumentada e Realidade Virtual.
